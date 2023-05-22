@@ -25,9 +25,9 @@ State Transition Submission
 * From the Log-in page, the "User navigates to sign up page" event leads to the Sign-up page.
 * From the Logged-in page, the "User logs out" event leads to the Log-in page.
 
-4. State Transition Diagram:
+4. State Transition Diagram: see files in repo
 
-5. State Transition Table:
+5. State Transition Table: see files in repo
 
 6. Test Case:
 
